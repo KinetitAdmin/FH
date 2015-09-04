@@ -1,0 +1,6 @@
+D:\Development\xwpva87\Testes FH\MarcacaoAulas\MarcacaoAulas\bin\Debug\MarcacaoAulas.exe.config
+D:\Development\xwpva87\Testes FH\MarcacaoAulas\MarcacaoAulas\bin\Debug\MarcacaoAulas.exe
+D:\Development\xwpva87\Testes FH\MarcacaoAulas\MarcacaoAulas\bin\Debug\MarcacaoAulas.pdb
+D:\Development\xwpva87\Testes FH\MarcacaoAulas\MarcacaoAulas\obj\Debug\MarcacaoAulas.exe
+D:\Development\xwpva87\Testes FH\MarcacaoAulas\MarcacaoAulas\obj\Debug\MarcacaoAulas.pdb
+D:\Development\xwpva87\Testes FH\MarcacaoAulas\MarcacaoAulas\obj\Debug\MarcacaoAulas.csprojResolveAssemblyReference.cache
